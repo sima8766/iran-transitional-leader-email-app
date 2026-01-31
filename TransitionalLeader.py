@@ -24,7 +24,7 @@ CSV_PATH = BASE_DIR / "au_parliament_contacts.csv"
 st.set_page_config(page_title="Email Draft Generator", layout="centered")
 #st.title("Email Draft Generator for Australian Senators and MPs in Support of the Iranian National Revolution")
 #st.title("Email Draft Generator for Australian Parliamentarians | تولید پیش‌نویس ایمیل برای نمایندگان پارلمان استرالیا")
-#st.header("Email Draft Generator for Australian Parliamentarians in Support of the Iranian National Revolution and Crown Prince Reza Pahlavi as a Transitional Leader | تولید پیش‌نویس ایمیل برای نمایندگان پارلمان استرالیا در حمایت از انقلاب ملی ایران و شاهزاده رضا پهلوی به‌عنوان رهبر دوران گذار")
+#st.header("Email Draft Generator for Australian Senators and MPs in Support of the Iranian National Revolution and Crown Prince Reza Pahlavi as a Transitional Leader | تولید پیش‌نویس ایمیل برای نمایندگان استرالیا در حمایت از انقلاب ملی ایران و شاهزاده رضا پهلوی به‌عنوان رهبر دوران گذار")
 st.markdown(
     "<h3 style='text-align:center;'>Sending Email to Australian Parliamentarians in Support of the Iranian National Revolution and Crown Prince Reza Pahlavi as a Transitional Leader</h3>",
     unsafe_allow_html=True
